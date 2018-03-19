@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.sdf
+Debug
+Release
+3DBPP Instance Generator/Debug
+3DBPP Instance Generator/Release
